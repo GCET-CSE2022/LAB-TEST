@@ -24,10 +24,4 @@ void main()
     FloodFill(110,110,GREEN,RED);
     getch();
     closegraph();
-f
-
-
-
-
-
 }
